@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Amiri', serif;
+  direction: rtl;
+}
+
+.title {  
+    text-align: center;
+}
+.title > div {
+    border: 2px solid #5cab22;
+    max-width: 80%;
+    /* display: block; */
+    border-radius: 10px;
+    margin: 0 auto;
+
+}
+.title > div > h1 {
+    font-weight: normal;
+    font-size: 1.5rem;
+    margin: 5px;
+
+}
+.title > .bismillah {
+    font-weight: normal;
+}
+
+.content {
+  line-height: 2rem;
+}
+.content > ol {
+  list-style: arabic-indic;
+}
+.content > ol > li {
+}
+
+.content > ol > li:before {
+}
