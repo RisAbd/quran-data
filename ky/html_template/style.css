@@ -1,0 +1,39 @@
+
+body {
+}
+
+.title {  
+    text-align: center;
+}
+.title > div {
+    border: 2px solid #5cab22;
+    max-width: 80%;
+    /* display: block; */
+    border-radius: 10px;
+    margin: 0 auto;
+
+}
+.title > div > h1 {
+    font-weight: normal;
+    font-size: 1.3rem;
+    margin: 5px;
+
+}
+.title > p.subtitle {
+    font-style: italic;
+}
+
+.title > .bismillah {
+    font-weight: normal;
+    font-size: 1.1rem;
+}
+
+.content {
+}
+.content > ol {
+}
+.content > ol > li {
+}
+
+.content > ol > li:before {
+}

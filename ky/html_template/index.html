@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ыйык Куран</title>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="favicon/site.webmanifest">
+
+  <link rel="stylesheet" type="text/css" href="font.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <style>
+    .content > ol {
+      column-count: 2;
+    }
+    .title > img {
+      max-width: 100%;
+      margin: 2rem auto 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="title">
+    <!-- <div>
+      <h1>القرآن الكريم</h1>
+    </div> -->
+    <img src="quran.png" title="القرآن الكريم">
+  </div>
+  <div class="content">
+    <ol>
+    {% for s in surahs %}
+      <li><a href="surah_{{ s.number }}.html">«{{ s.title }}» сүрөсү</a></li>
+    {% endfor %}
+    </ol>
+  </div>
+</body>
+</html>
