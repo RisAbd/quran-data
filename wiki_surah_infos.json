@@ -1,0 +1,1028 @@
+[
+  {
+    "number": 1,
+    "english_title": "Al-Fatihah",
+    "arabic_title": "ٱلْفَاتِحَة",
+    "latin_arabic_title": "al-Fātiḥah",
+    "verses_count": 7,
+    "revelation_place": "Makkah",
+    "chronological_order": 5
+  },
+  {
+    "number": 2,
+    "english_title": "Al-Baqarah",
+    "arabic_title": "ٱلْبَقَرَة",
+    "latin_arabic_title": "al-Baq̈arah",
+    "verses_count": 286,
+    "revelation_place": "Madinah",
+    "chronological_order": 87
+  },
+  {
+    "number": 3,
+    "english_title": "Al Imran",
+    "arabic_title": "آلِ عِمْرَان",
+    "latin_arabic_title": "ʾĀl ʿImrān",
+    "verses_count": 200,
+    "revelation_place": "Madinah",
+    "chronological_order": 89
+  },
+  {
+    "number": 4,
+    "english_title": "An-Nisa'",
+    "arabic_title": "ٱلنِّسَاء",
+    "latin_arabic_title": "an-Nisāʾ",
+    "verses_count": 176,
+    "revelation_place": "Madinah",
+    "chronological_order": 92
+  },
+  {
+    "number": 5,
+    "english_title": "Al-Ma'idah",
+    "arabic_title": "ٱلْمَائِدَة",
+    "latin_arabic_title": "al-Māʾidah",
+    "verses_count": 120,
+    "revelation_place": "Madinah",
+    "chronological_order": 112
+  },
+  {
+    "number": 6,
+    "english_title": "Al-An'am",
+    "arabic_title": "ٱلْأَنْعَام",
+    "latin_arabic_title": "al-ʾAnʿām",
+    "verses_count": 165,
+    "revelation_place": "Makkah",
+    "chronological_order": 55
+  },
+  {
+    "number": 7,
+    "english_title": "Al-A'raf",
+    "arabic_title": "ٱلْأَعْرَاف",
+    "latin_arabic_title": "al-ʾAʿrāf",
+    "verses_count": 206,
+    "revelation_place": "Makkah",
+    "chronological_order": 39
+  },
+  {
+    "number": 8,
+    "english_title": "Al-'Anfal",
+    "arabic_title": "ٱلْأَنْفَال",
+    "latin_arabic_title": "al-ʾAnfāl",
+    "verses_count": 75,
+    "revelation_place": "Madinah",
+    "chronological_order": 88
+  },
+  {
+    "number": 9,
+    "english_title": "At-Tawbah",
+    "arabic_title": "ٱلتَّوْبَة",
+    "latin_arabic_title": "at-Tawbah",
+    "verses_count": 129,
+    "revelation_place": "Madinah",
+    "chronological_order": 113
+  },
+  {
+    "number": 10,
+    "english_title": "Yunus",
+    "arabic_title": "يُونُس",
+    "latin_arabic_title": "al-Yūnus",
+    "verses_count": 109,
+    "revelation_place": "Makkah",
+    "chronological_order": 51
+  },
+  {
+    "number": 11,
+    "english_title": "Hud",
+    "arabic_title": "هُود",
+    "latin_arabic_title": "Hūd",
+    "verses_count": 123,
+    "revelation_place": "Makkah",
+    "chronological_order": 52
+  },
+  {
+    "number": 12,
+    "english_title": "Yusuf",
+    "arabic_title": "يُوسُف",
+    "latin_arabic_title": "Yūsuf",
+    "verses_count": 111,
+    "revelation_place": "Makkah",
+    "chronological_order": 53
+  },
+  {
+    "number": 13,
+    "english_title": "Ar-Ra'd",
+    "arabic_title": "ٱلرَّعْد",
+    "latin_arabic_title": "ar-Raʿd",
+    "verses_count": 43,
+    "revelation_place": "Madinah",
+    "chronological_order": 96
+  },
+  {
+    "number": 14,
+    "english_title": "Ibrahim",
+    "arabic_title": "إِبْرَاهِيم",
+    "latin_arabic_title": "ʾIbrāhīm",
+    "verses_count": 52,
+    "revelation_place": "Makkah",
+    "chronological_order": 72
+  },
+  {
+    "number": 15,
+    "english_title": "Al-Hijr",
+    "arabic_title": "ٱلْحِجْر",
+    "latin_arabic_title": "al-Ḥijr",
+    "verses_count": 99,
+    "revelation_place": "Makkah",
+    "chronological_order": 54
+  },
+  {
+    "number": 16,
+    "english_title": "An-Nahl",
+    "arabic_title": "ٱلنَّحْل",
+    "latin_arabic_title": "an-Naḥl",
+    "verses_count": 128,
+    "revelation_place": "Makkah",
+    "chronological_order": 70
+  },
+  {
+    "number": 17,
+    "english_title": "Al-Isra'",
+    "arabic_title": "ٱلْإِسْرَاء",
+    "latin_arabic_title": "al-ʾIsrāʾ",
+    "verses_count": 111,
+    "revelation_place": "Makkah",
+    "chronological_order": 50
+  },
+  {
+    "number": 18,
+    "english_title": "Al-Kahf",
+    "arabic_title": "ٱلْكَهْف",
+    "latin_arabic_title": "al-Kahf",
+    "verses_count": 110,
+    "revelation_place": "Makkah",
+    "chronological_order": 69
+  },
+  {
+    "number": 19,
+    "english_title": "Maryam",
+    "arabic_title": "مَرْيَم",
+    "latin_arabic_title": "Maryam",
+    "verses_count": 98,
+    "revelation_place": "Makkah",
+    "chronological_order": 44
+  },
+  {
+    "number": 20,
+    "english_title": "Ta-Ha",
+    "arabic_title": "طه",
+    "latin_arabic_title": "Ṭāʾ Hāʾ",
+    "verses_count": 135,
+    "revelation_place": "Makkah",
+    "chronological_order": 45
+  },
+  {
+    "number": 21,
+    "english_title": "Al-Anbiya'",
+    "arabic_title": "ٱلْأَنْبِيَاء",
+    "latin_arabic_title": "al-ʾAnbiyāʾ",
+    "verses_count": 112,
+    "revelation_place": "Makkah",
+    "chronological_order": 73
+  },
+  {
+    "number": 22,
+    "english_title": "Al-Hajj",
+    "arabic_title": "ٱلْحَجّ",
+    "latin_arabic_title": "al-Ḥajj",
+    "verses_count": 78,
+    "revelation_place": "Madinah",
+    "chronological_order": 103
+  },
+  {
+    "number": 23,
+    "english_title": "Al-Mu'minun",
+    "arabic_title": "ٱلْمُؤْمِنُون",
+    "latin_arabic_title": "al-Muʾminūn",
+    "verses_count": 118,
+    "revelation_place": "Makkah",
+    "chronological_order": 74
+  },
+  {
+    "number": 24,
+    "english_title": "An-Nur",
+    "arabic_title": "ٱلنُّور",
+    "latin_arabic_title": "an-Nūr",
+    "verses_count": 64,
+    "revelation_place": "Madinah",
+    "chronological_order": 102
+  },
+  {
+    "number": 25,
+    "english_title": "Al-Furqan",
+    "arabic_title": "ٱلْفُرْقَان",
+    "latin_arabic_title": "al-Furq̈ān",
+    "verses_count": 77,
+    "revelation_place": "Makkah",
+    "chronological_order": 42
+  },
+  {
+    "number": 26,
+    "english_title": "Ash-Shu'ara'",
+    "arabic_title": "ٱلشُّعَرَاء",
+    "latin_arabic_title": "aš-Šuʿarāʾ",
+    "verses_count": 227,
+    "revelation_place": "Makkah",
+    "chronological_order": 47
+  },
+  {
+    "number": 27,
+    "english_title": "An-Naml",
+    "arabic_title": "ٱلنَّمْل",
+    "latin_arabic_title": "an-Naml",
+    "verses_count": 93,
+    "revelation_place": "Makkah",
+    "chronological_order": 48
+  },
+  {
+    "number": 28,
+    "english_title": "Al-Qasas",
+    "arabic_title": "ٱلْقَصَص",
+    "latin_arabic_title": "al-Q̈aṣaṣ",
+    "verses_count": 88,
+    "revelation_place": "Makkah",
+    "chronological_order": 49
+  },
+  {
+    "number": 29,
+    "english_title": "Al-'Ankabut",
+    "arabic_title": "ٱلْعَنْكَبُوت",
+    "latin_arabic_title": "al-ʿAnkabūt",
+    "verses_count": 69,
+    "revelation_place": "Makkah",
+    "chronological_order": 85
+  },
+  {
+    "number": 30,
+    "english_title": "Ar-Rum",
+    "arabic_title": "ٱلرُّوم",
+    "latin_arabic_title": "ar-Rūm",
+    "verses_count": 60,
+    "revelation_place": "Makkah",
+    "chronological_order": 84
+  },
+  {
+    "number": 31,
+    "english_title": "Luqman",
+    "arabic_title": "لُقْمَان",
+    "latin_arabic_title": "Luq̈mān",
+    "verses_count": 34,
+    "revelation_place": "Makkah",
+    "chronological_order": 57
+  },
+  {
+    "number": 32,
+    "english_title": "As-Sajdah",
+    "arabic_title": "ٱلسَّجْدَة",
+    "latin_arabic_title": "as-Sajdah",
+    "verses_count": 30,
+    "revelation_place": "Makkah",
+    "chronological_order": 75
+  },
+  {
+    "number": 33,
+    "english_title": "Al-Ahzab",
+    "arabic_title": "ٱلْأَحْزَاب",
+    "latin_arabic_title": "al-ʾAḥzāb",
+    "verses_count": 73,
+    "revelation_place": "Madinah",
+    "chronological_order": 90
+  },
+  {
+    "number": 34,
+    "english_title": "Saba'",
+    "arabic_title": "سَبَأ",
+    "latin_arabic_title": "Sabaʾ",
+    "verses_count": 54,
+    "revelation_place": "Makkah",
+    "chronological_order": 58
+  },
+  {
+    "number": 35,
+    "english_title": "Fatir",
+    "arabic_title": "فَاطِر",
+    "latin_arabic_title": "Fāṭir",
+    "verses_count": 45,
+    "revelation_place": "Makkah",
+    "chronological_order": 43
+  },
+  {
+    "number": 36,
+    "english_title": "Ya-Sin",
+    "arabic_title": "يس",
+    "latin_arabic_title": "Yāʾ Sīn",
+    "verses_count": 83,
+    "revelation_place": "Makkah",
+    "chronological_order": 41
+  },
+  {
+    "number": 37,
+    "english_title": "As-Saffat",
+    "arabic_title": "ٱلصَّافَّات",
+    "latin_arabic_title": "aṣ-Ṣāffāt",
+    "verses_count": 182,
+    "revelation_place": "Makkah",
+    "chronological_order": 56
+  },
+  {
+    "number": 38,
+    "english_title": "Saad",
+    "arabic_title": "ص",
+    "latin_arabic_title": "Ṣād",
+    "verses_count": 88,
+    "revelation_place": "Makkah",
+    "chronological_order": 38
+  },
+  {
+    "number": 39,
+    "english_title": "Az-Zumar",
+    "arabic_title": "ٱلزُّمَر",
+    "latin_arabic_title": "az-Zumar",
+    "verses_count": 75,
+    "revelation_place": "Makkah",
+    "chronological_order": 59
+  },
+  {
+    "number": 40,
+    "english_title": "Ghafir",
+    "arabic_title": "غَافِر",
+    "latin_arabic_title": "Ghāfir",
+    "verses_count": 85,
+    "revelation_place": "Makkah",
+    "chronological_order": 60
+  },
+  {
+    "number": 41,
+    "english_title": "Fussilat",
+    "arabic_title": "فُصِّلَت",
+    "latin_arabic_title": "Fuṣṣilat",
+    "verses_count": 54,
+    "revelation_place": "Makkah",
+    "chronological_order": 61
+  },
+  {
+    "number": 42,
+    "english_title": "Ash-Shura",
+    "arabic_title": "ٱلشُّورىٰ",
+    "latin_arabic_title": "aš-Šūrā",
+    "verses_count": 53,
+    "revelation_place": "Makkah",
+    "chronological_order": 62
+  },
+  {
+    "number": 43,
+    "english_title": "Az-Zukhruf",
+    "arabic_title": "ٱلْزُّخْرُف",
+    "latin_arabic_title": "az-Zukhruf",
+    "verses_count": 89,
+    "revelation_place": "Makkah",
+    "chronological_order": 63
+  },
+  {
+    "number": 44,
+    "english_title": "Ad-Dukhan",
+    "arabic_title": "ٱلدُّخَان",
+    "latin_arabic_title": "ad-Dukhān",
+    "verses_count": 59,
+    "revelation_place": "Makkah",
+    "chronological_order": 64
+  },
+  {
+    "number": 45,
+    "english_title": "Al-Jathiyah",
+    "arabic_title": "ٱلْجَاثِيَة",
+    "latin_arabic_title": "al-Jāthiyah",
+    "verses_count": 37,
+    "revelation_place": "Makkah",
+    "chronological_order": 65
+  },
+  {
+    "number": 46,
+    "english_title": "Al-Ahqaf",
+    "arabic_title": "ٱلْأَحْقَاف",
+    "latin_arabic_title": "al-ʾAḥq̈āf",
+    "verses_count": 35,
+    "revelation_place": "Makkah",
+    "chronological_order": 66
+  },
+  {
+    "number": 47,
+    "english_title": "Muhammad",
+    "arabic_title": "مُحَمَّد",
+    "latin_arabic_title": "Muḥammad",
+    "verses_count": 38,
+    "revelation_place": "Madinah",
+    "chronological_order": 95
+  },
+  {
+    "number": 48,
+    "english_title": "Al-Fath",
+    "arabic_title": "ٱلْفَتْح",
+    "latin_arabic_title": "al-Fatḥ",
+    "verses_count": 29,
+    "revelation_place": "Madinah",
+    "chronological_order": 111
+  },
+  {
+    "number": 49,
+    "english_title": "Al-Hujurat",
+    "arabic_title": "ٱلْحُجُرَات",
+    "latin_arabic_title": "al-Ḥujurāt",
+    "verses_count": 18,
+    "revelation_place": "Madinah",
+    "chronological_order": 106
+  },
+  {
+    "number": 50,
+    "english_title": "Qaf",
+    "arabic_title": "ق",
+    "latin_arabic_title": "Q̈āf",
+    "verses_count": 45,
+    "revelation_place": "Makkah",
+    "chronological_order": 34
+  },
+  {
+    "number": 51,
+    "english_title": "Adh-Dhariyat",
+    "arabic_title": "ٱلذَّارِيَات",
+    "latin_arabic_title": "aḏ-Ḏāriyāt",
+    "verses_count": 60,
+    "revelation_place": "Makkah",
+    "chronological_order": 67
+  },
+  {
+    "number": 52,
+    "english_title": "At-Tur",
+    "arabic_title": "ٱلطُّور",
+    "latin_arabic_title": "aṭ-Ṭūr",
+    "verses_count": 49,
+    "revelation_place": "Makkah",
+    "chronological_order": 76
+  },
+  {
+    "number": 53,
+    "english_title": "An-Najm",
+    "arabic_title": "ٱلنَّجْم",
+    "latin_arabic_title": "an-Najm",
+    "verses_count": 62,
+    "revelation_place": "Makkah",
+    "chronological_order": 23
+  },
+  {
+    "number": 54,
+    "english_title": "Al-Qamar",
+    "arabic_title": "ٱلْقَمَر",
+    "latin_arabic_title": "al-Q̈amar",
+    "verses_count": 55,
+    "revelation_place": "Makkah",
+    "chronological_order": 37
+  },
+  {
+    "number": 55,
+    "english_title": "Ar-Rahman",
+    "arabic_title": "ٱلرَّحْمَٰن",
+    "latin_arabic_title": "ar-Raḥmān",
+    "verses_count": 78,
+    "revelation_place": "Madinah",
+    "chronological_order": 97
+  },
+  {
+    "number": 56,
+    "english_title": "Al-Waqi'ah",
+    "arabic_title": "ٱلْوَاقِعَة",
+    "latin_arabic_title": "al-Wāqiʿah",
+    "verses_count": 96,
+    "revelation_place": "Makkah",
+    "chronological_order": 46
+  },
+  {
+    "number": 57,
+    "english_title": "Al-Hadeed",
+    "arabic_title": "ٱلْحَدِيد",
+    "latin_arabic_title": "al-Ḥadīd",
+    "verses_count": 29,
+    "revelation_place": "Madinah",
+    "chronological_order": 94
+  },
+  {
+    "number": 58,
+    "english_title": "Al-Mujadilah",
+    "arabic_title": "ٱلْمُجَادِلَة",
+    "latin_arabic_title": "al-Mujādilah",
+    "verses_count": 22,
+    "revelation_place": "Madinah",
+    "chronological_order": 105
+  },
+  {
+    "number": 59,
+    "english_title": "Al-Hashr",
+    "arabic_title": "ٱلْحَشْر",
+    "latin_arabic_title": "al-Ḥašr",
+    "verses_count": 24,
+    "revelation_place": "Madinah",
+    "chronological_order": 101
+  },
+  {
+    "number": 60,
+    "english_title": "Al-Mumtahanah",
+    "arabic_title": "ٱلْمُمْتَحَنَة",
+    "latin_arabic_title": "al-Mumtaḥanah",
+    "verses_count": 13,
+    "revelation_place": "Madinah",
+    "chronological_order": 91
+  },
+  {
+    "number": 61,
+    "english_title": "As-Saff",
+    "arabic_title": "ٱلصَّفّ",
+    "latin_arabic_title": "aṣ-Ṣaff",
+    "verses_count": 14,
+    "revelation_place": "Madinah",
+    "chronological_order": 109
+  },
+  {
+    "number": 62,
+    "english_title": "Al-Jumu'ah",
+    "arabic_title": "ٱلْجُمُعَة",
+    "latin_arabic_title": "al-Jumuʿah",
+    "verses_count": 11,
+    "revelation_place": "Madinah",
+    "chronological_order": 110
+  },
+  {
+    "number": 63,
+    "english_title": "Al-Munafiqun",
+    "arabic_title": "ٱلْمُنَافِقُون",
+    "latin_arabic_title": "al-Munāfiq̈ūn",
+    "verses_count": 11,
+    "revelation_place": "Madinah",
+    "chronological_order": 104
+  },
+  {
+    "number": 64,
+    "english_title": "At-Taghabun",
+    "arabic_title": "ٱلتَّغَابُن",
+    "latin_arabic_title": "at-Taghābun",
+    "verses_count": 18,
+    "revelation_place": "Madinah",
+    "chronological_order": 108
+  },
+  {
+    "number": 65,
+    "english_title": "At-Talaq",
+    "arabic_title": "ٱلطَّلَاق",
+    "latin_arabic_title": "aṭ-Ṭalāq̈",
+    "verses_count": 12,
+    "revelation_place": "Madinah",
+    "chronological_order": 99
+  },
+  {
+    "number": 66,
+    "english_title": "At-Tahreem",
+    "arabic_title": "ٱلتَّحْرِيم",
+    "latin_arabic_title": "at-Taḥrīm",
+    "verses_count": 12,
+    "revelation_place": "Madinah",
+    "chronological_order": 107
+  },
+  {
+    "number": 67,
+    "english_title": "Al-Mulk",
+    "arabic_title": "ٱلْمُلْك",
+    "latin_arabic_title": "al-Mulk",
+    "verses_count": 30,
+    "revelation_place": "Makkah",
+    "chronological_order": 77
+  },
+  {
+    "number": 68,
+    "english_title": "Al-Qalam",
+    "arabic_title": "ٱلْقَلَم",
+    "latin_arabic_title": "al-Q̈alam",
+    "verses_count": 52,
+    "revelation_place": "Makkah",
+    "chronological_order": 2
+  },
+  {
+    "number": 69,
+    "english_title": "Al-Haqqah",
+    "arabic_title": "ٱلْحَاقَّة",
+    "latin_arabic_title": "al-Ḥāq̈q̈ah",
+    "verses_count": 52,
+    "revelation_place": "Makkah",
+    "chronological_order": 78
+  },
+  {
+    "number": 70,
+    "english_title": "Al-Ma'aarij",
+    "arabic_title": "ٱلْمَعَارِج",
+    "latin_arabic_title": "al-Maʿārij",
+    "verses_count": 44,
+    "revelation_place": "Makkah",
+    "chronological_order": 79
+  },
+  {
+    "number": 71,
+    "english_title": "Nuh",
+    "arabic_title": "نُوح",
+    "latin_arabic_title": "Nūḥ",
+    "verses_count": 28,
+    "revelation_place": "Makkah",
+    "chronological_order": 71
+  },
+  {
+    "number": 72,
+    "english_title": "Al-Jinn",
+    "arabic_title": "ٱلْجِنّ",
+    "latin_arabic_title": "al-Jinn",
+    "verses_count": 28,
+    "revelation_place": "Makkah",
+    "chronological_order": 40
+  },
+  {
+    "number": 73,
+    "english_title": "Al-Muzzammil",
+    "arabic_title": "ٱلْمُزَّمِّل",
+    "latin_arabic_title": "al-Muzzammil",
+    "verses_count": 20,
+    "revelation_place": "Makkah",
+    "chronological_order": 3
+  },
+  {
+    "number": 74,
+    "english_title": "Al-Muddaththir",
+    "arabic_title": "ٱلْمُدَّثِّر",
+    "latin_arabic_title": "al-Muddathir",
+    "verses_count": 56,
+    "revelation_place": "Makkah",
+    "chronological_order": 4
+  },
+  {
+    "number": 75,
+    "english_title": "Al-Qiyamah",
+    "arabic_title": "ٱلْقِيَامَة",
+    "latin_arabic_title": "al-Q̈iyamah",
+    "verses_count": 40,
+    "revelation_place": "Makkah",
+    "chronological_order": 31
+  },
+  {
+    "number": 76,
+    "english_title": "Al-Insan",
+    "arabic_title": "ٱلْإِنْسَان",
+    "latin_arabic_title": "al-ʾInsān",
+    "verses_count": 31,
+    "revelation_place": "Madinah",
+    "chronological_order": 98
+  },
+  {
+    "number": 77,
+    "english_title": "Al-Mursalat",
+    "arabic_title": "ٱلْمُرْسَلَات",
+    "latin_arabic_title": "al-Mursalāt",
+    "verses_count": 50,
+    "revelation_place": "Makkah",
+    "chronological_order": 33
+  },
+  {
+    "number": 78,
+    "english_title": "An-Naba'",
+    "arabic_title": "ٱلنَّبَأ",
+    "latin_arabic_title": "an-Nabaʾ",
+    "verses_count": 40,
+    "revelation_place": "Makkah",
+    "chronological_order": 80
+  },
+  {
+    "number": 79,
+    "english_title": "An-Nazi'at",
+    "arabic_title": "ٱلنَّازِعَات",
+    "latin_arabic_title": "an-Nāziʿāt",
+    "verses_count": 46,
+    "revelation_place": "Makkah",
+    "chronological_order": 81
+  },
+  {
+    "number": 80,
+    "english_title": "Abasa",
+    "arabic_title": "عَبَسَ",
+    "latin_arabic_title": "ʿAbasa",
+    "verses_count": 42,
+    "revelation_place": "Makkah",
+    "chronological_order": 24
+  },
+  {
+    "number": 81,
+    "english_title": "At-Takweer",
+    "arabic_title": "ٱلتَّكْوِير",
+    "latin_arabic_title": "at-Takwīr",
+    "verses_count": 29,
+    "revelation_place": "Makkah",
+    "chronological_order": 7
+  },
+  {
+    "number": 82,
+    "english_title": "Al-Infitar",
+    "arabic_title": "ٱلْإِنْفِطَار",
+    "latin_arabic_title": "al-ʾInfiṭār",
+    "verses_count": 19,
+    "revelation_place": "Makkah",
+    "chronological_order": 82
+  },
+  {
+    "number": 83,
+    "english_title": "Al-Mutaffifeen",
+    "arabic_title": "ٱلْمُطَفِّفِين",
+    "latin_arabic_title": "al-Muṭaffifīn",
+    "verses_count": 36,
+    "revelation_place": "Makkah",
+    "chronological_order": 86
+  },
+  {
+    "number": 84,
+    "english_title": "Al-Inshiqaq",
+    "arabic_title": "ٱلْإِنْشِقَاق",
+    "latin_arabic_title": "al-ʾInšiq̈āq̈",
+    "verses_count": 25,
+    "revelation_place": "Makkah",
+    "chronological_order": 83
+  },
+  {
+    "number": 85,
+    "english_title": "Al-Buruj",
+    "arabic_title": "ٱلْبُرُوج",
+    "latin_arabic_title": "al-Burūj",
+    "verses_count": 22,
+    "revelation_place": "Makkah",
+    "chronological_order": 27
+  },
+  {
+    "number": 86,
+    "english_title": "At-Tariq",
+    "arabic_title": "ٱلطَّارِق",
+    "latin_arabic_title": "aṭ-Ṭāriq̈",
+    "verses_count": 17,
+    "revelation_place": "Makkah",
+    "chronological_order": 36
+  },
+  {
+    "number": 87,
+    "english_title": "Al-A'la",
+    "arabic_title": "ٱلْأَعْلَىٰ",
+    "latin_arabic_title": "al-ʾAʿlā",
+    "verses_count": 19,
+    "revelation_place": "Makkah",
+    "chronological_order": 8
+  },
+  {
+    "number": 88,
+    "english_title": "Al-Ghashiyah",
+    "arabic_title": "ٱلْغَاشِيَة",
+    "latin_arabic_title": "al-Ghāšiyah",
+    "verses_count": 26,
+    "revelation_place": "Makkah",
+    "chronological_order": 68
+  },
+  {
+    "number": 89,
+    "english_title": "Al-Fajr",
+    "arabic_title": "ٱلْفَجْر",
+    "latin_arabic_title": "al-Fajr",
+    "verses_count": 30,
+    "revelation_place": "Makkah",
+    "chronological_order": 10
+  },
+  {
+    "number": 90,
+    "english_title": "Al-Balad",
+    "arabic_title": "ٱلْبَلَد",
+    "latin_arabic_title": "al-Balad",
+    "verses_count": 20,
+    "revelation_place": "Makkah",
+    "chronological_order": 35
+  },
+  {
+    "number": 91,
+    "english_title": "Ash-Shams",
+    "arabic_title": "ٱلشَّمْس",
+    "latin_arabic_title": "aš-Šams",
+    "verses_count": 15,
+    "revelation_place": "Makkah",
+    "chronological_order": 26
+  },
+  {
+    "number": 92,
+    "english_title": "Al-Layl",
+    "arabic_title": "ٱللَّيْل",
+    "latin_arabic_title": "al-Layl",
+    "verses_count": 21,
+    "revelation_place": "Makkah",
+    "chronological_order": 9
+  },
+  {
+    "number": 93,
+    "english_title": "Ad-Dhuha",
+    "arabic_title": "ٱلضُّحَىٰ",
+    "latin_arabic_title": "aḍ-Ḍuḥā",
+    "verses_count": 11,
+    "revelation_place": "Makkah",
+    "chronological_order": 11
+  },
+  {
+    "number": 94,
+    "english_title": "Ash-Sharh (Al-Inshirah)",
+    "arabic_title": "ٱلشَّرْح",
+    "latin_arabic_title": "aš-Šarḥ",
+    "verses_count": 8,
+    "revelation_place": "Makkah",
+    "chronological_order": 12
+  },
+  {
+    "number": 95,
+    "english_title": "At-Tin",
+    "arabic_title": "ٱلتِّين",
+    "latin_arabic_title": "at-Tīn",
+    "verses_count": 8,
+    "revelation_place": "Makkah",
+    "chronological_order": 28
+  },
+  {
+    "number": 96,
+    "english_title": "Al-Alaq",
+    "arabic_title": "ٱلْعَلَق",
+    "latin_arabic_title": "al-ʿAlaq̈",
+    "verses_count": 19,
+    "revelation_place": "Makkah",
+    "chronological_order": 1
+  },
+  {
+    "number": 97,
+    "english_title": "Al-Qadr",
+    "arabic_title": "ٱلْقَدْر",
+    "latin_arabic_title": "al-Q̈adr",
+    "verses_count": 5,
+    "revelation_place": "Makkah",
+    "chronological_order": 25
+  },
+  {
+    "number": 98,
+    "english_title": "Al-Bayyinah",
+    "arabic_title": "ٱلْبَيِّنَة",
+    "latin_arabic_title": "al-Bayyinah",
+    "verses_count": 8,
+    "revelation_place": "Madinah",
+    "chronological_order": 100
+  },
+  {
+    "number": 99,
+    "english_title": "Az-Zalzalah",
+    "arabic_title": "ٱلزَّلْرَلَة",
+    "latin_arabic_title": "Az-Zalzalah",
+    "verses_count": 8,
+    "revelation_place": "Madinah",
+    "chronological_order": 93
+  },
+  {
+    "number": 100,
+    "english_title": "Al-'Adiyat",
+    "arabic_title": "ٱلْعَادِيَات",
+    "latin_arabic_title": "al-ʿĀdiyāt",
+    "verses_count": 11,
+    "revelation_place": "Makkah",
+    "chronological_order": 14
+  },
+  {
+    "number": 101,
+    "english_title": "Al-Qari'ah",
+    "arabic_title": "ٱلْقَارِعَة",
+    "latin_arabic_title": "al-Q̈āriʿah",
+    "verses_count": 11,
+    "revelation_place": "Makkah",
+    "chronological_order": 30
+  },
+  {
+    "number": 102,
+    "english_title": "At-Takathur",
+    "arabic_title": "ٱلتَّكَاثُر",
+    "latin_arabic_title": "at-Takāthur",
+    "verses_count": 8,
+    "revelation_place": "Makkah",
+    "chronological_order": 16
+  },
+  {
+    "number": 103,
+    "english_title": "Al-'Asr",
+    "arabic_title": "ٱلْعَصْر",
+    "latin_arabic_title": "al-ʿAṣr",
+    "verses_count": 3,
+    "revelation_place": "Makkah",
+    "chronological_order": 13
+  },
+  {
+    "number": 104,
+    "english_title": "Al-Humazah",
+    "arabic_title": "ٱلْهُمَزَة",
+    "latin_arabic_title": "al-Humazah",
+    "verses_count": 9,
+    "revelation_place": "Makkah",
+    "chronological_order": 32
+  },
+  {
+    "number": 105,
+    "english_title": "Al-Feel",
+    "arabic_title": "ٱلْفِيل",
+    "latin_arabic_title": "al-Fīl",
+    "verses_count": 5,
+    "revelation_place": "Makkah",
+    "chronological_order": 19
+  },
+  {
+    "number": 106,
+    "english_title": "Quraysh",
+    "arabic_title": "قُرَيْش",
+    "latin_arabic_title": "Q̈urayš",
+    "verses_count": 4,
+    "revelation_place": "Makkah",
+    "chronological_order": 29
+  },
+  {
+    "number": 107,
+    "english_title": "Al-Ma'un",
+    "arabic_title": "ٱلْمَاعُون",
+    "latin_arabic_title": "al-Maʿūn",
+    "verses_count": 7,
+    "revelation_place": "Makkah",
+    "chronological_order": 17
+  },
+  {
+    "number": 108,
+    "english_title": "Al-Kawthar",
+    "arabic_title": "ٱلْكَوْثَر",
+    "latin_arabic_title": "al-Kawthar",
+    "verses_count": 3,
+    "revelation_place": "Makkah",
+    "chronological_order": 15
+  },
+  {
+    "number": 109,
+    "english_title": "Al-Kafirun",
+    "arabic_title": "ٱلْكَافِرُون",
+    "latin_arabic_title": "al-Kāfirūn",
+    "verses_count": 6,
+    "revelation_place": "Makkah",
+    "chronological_order": 18
+  },
+  {
+    "number": 110,
+    "english_title": "An-Nasr",
+    "arabic_title": "ٱلنَّصْر",
+    "latin_arabic_title": "an-Naṣr",
+    "verses_count": 3,
+    "revelation_place": "Madinah",
+    "chronological_order": 114
+  },
+  {
+    "number": 111,
+    "english_title": "Al-Lahab",
+    "arabic_title": "ٱلْمَسَد",
+    "latin_arabic_title": "al-Masad",
+    "verses_count": 5,
+    "revelation_place": "Makkah",
+    "chronological_order": 6
+  },
+  {
+    "number": 112,
+    "english_title": "Al-Ikhlas",
+    "arabic_title": "ٱلْإِخْلَاص",
+    "latin_arabic_title": "al-ʾIkhlāṣ",
+    "verses_count": 4,
+    "revelation_place": "Makkah",
+    "chronological_order": 22
+  },
+  {
+    "number": 113,
+    "english_title": "Al-Falaq",
+    "arabic_title": "ٱلْفَلَق",
+    "latin_arabic_title": "al-Falaq̈",
+    "verses_count": 5,
+    "revelation_place": "Makkah",
+    "chronological_order": 20
+  },
+  {
+    "number": 114,
+    "english_title": "Al-Nas",
+    "arabic_title": "ٱلنَّاس",
+    "latin_arabic_title": "an-Nās",
+    "verses_count": 6,
+    "revelation_place": "Makkah",
+    "chronological_order": 21
+  }
+]

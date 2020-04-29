@@ -1,0 +1,5 @@
+https://quran.com/api/api/v3/chapters/1/verses?language=en
+https://kuran.diyanet.gov.tr/yayinlar
+http://qurandatabase.org/
+https://kuran.diyanet.gov.tr/mushaf/kuran-1/bakara-suresi-2/ayet-6/diyanet-isleri-baskanligi-meali-1
+
